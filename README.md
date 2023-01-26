@@ -94,9 +94,9 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- **Decoding letter**
-- **Decoding words**
-- **Decoding sentences**
+- **Enumerable any**
+- **Enumerable all**
+- **Enumerable  filter**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,14 +112,22 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+### Setup
+
 To get a local copy up and running, follow these steps.
 
 git clone https://github.com/KIsmoilov/Enumerable.git <Your-Build-Directory>
 
-````
 cd Enumerable.git
 
-Run morse_code.rb on your terminal By Using IRB
+### Install
+### Usage
+
+To run the project, execute the following command:
+
+Install this project with:
+
+Run test.rb on your terminal By Using IRB
 
 ### Prerequisites
 
@@ -134,10 +142,6 @@ Example command:
 
 -->
 
-### Setup
-
-Clone this repository to your desired folder:
-
 <!--
 Example commands:
 
@@ -146,10 +150,6 @@ Example commands:
   git clone git@github.com:myaccount/my-project.git
 ```
 --->
-
-### Install
-
-Install this project with:
 
 <!--
 Example command:
@@ -160,9 +160,7 @@ Example command:
 ```
 --->
 
-### Usage
 
-To run the project, execute the following command:
 
 <!--
 Example command:
@@ -174,6 +172,8 @@ Example command:
 
 ### Run tests
 
+run on your terminal test.rb
+
 To run tests, run the following command:
 
 <!--
@@ -184,9 +184,9 @@ Example command:
 ```
 --->
 
-### Deployment
+<!-- ### Usage
 
-You can deploy this project using:
+To run the project, execute the following command: -->
 
 <!--
 Example:
